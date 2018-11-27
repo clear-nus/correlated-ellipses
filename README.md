@@ -5,11 +5,11 @@ This repository contains the Correlated Ellipses dataset which can be used for t
 If you use this dataset, please cite our paper.
 
 ```
-@article{ansari2018hyperprior,
+@inproceedings{ansari2018hyperprior,
   title={Hyperprior Induced Unsupervised Disentanglement of Latent Representations},
   author={Ansari, Abdul Fatir and Soh, Harold},
-  journal={arXiv preprint arXiv:1809.04497},
-  year={2018}
+  booktitle={AAAI Conference on Artificial Intelligence},
+  year={2019}
 }
 ```
 
